@@ -1,0 +1,14 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(0, 0, 0);
+color: whitesmoke;
+text-align: center;
+
+}
+
+#timer{
+font-size: 3em;
+font-weight: bold;
+margin: 50px;
+
+}
